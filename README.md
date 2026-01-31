@@ -3,7 +3,7 @@
 
 # 📂 Notebook Files
 
-Customer_Segmentation_Analysis.ipynb – Full workflow including EDA, RFM, clustering, and market basket analysis
+Customer_Segmentation_and_Retention_Analysis.ipynb – Full workflow including EDA, RFM, clustering, and market basket analysis
 
 # ⚡ How to Run
 
