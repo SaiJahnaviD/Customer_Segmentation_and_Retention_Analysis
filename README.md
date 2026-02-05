@@ -148,6 +148,8 @@ To go beyond rule-based segmentation, I applied K-Means clustering on normalized
 
 https://app.powerbi.com/groups/me/reports/0ae6952d-a5d7-4603-903f-5d7897b68bf6?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare
 
+<img width="2717" height="1531" alt="image" src="https://github.com/user-attachments/assets/1e495658-51fb-4ef2-85c2-5f02e5dd04c5" />
+
 
 ## 📊 Key Insights
 
