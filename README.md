@@ -43,6 +43,7 @@ The project is implemented in Python (Google Colab) with the following libraries
 - matplotlib, seaborn – Data visualization
 - scipy, sklearn – Statistical analysis and machine learning
 - Orange3 & Orange3-Associate – Association rule mining
+- PowerBI
 
 
 ### 🔍 Dataset
@@ -140,6 +141,12 @@ To go beyond rule-based segmentation, I applied K-Means clustering on normalized
 
 - **Q.m: How would combining RFM with clustering improve insights?**
 - **A:** It blends business interpretability with data-driven segmentation for more precise targeting.
+
+
+
+## Dashboard - PowerBI
+
+https://app.powerbi.com/groups/me/reports/0ae6952d-a5d7-4603-903f-5d7897b68bf6?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare
 
 
 ## 📊 Key Insights
